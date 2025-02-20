@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pricing Plans</title>
     <link rel="stylesheet" href="styles.css">
-  <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="solutions-int-test" ></script>
+  <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="chargebee-assessment4-test" ></script>
 </head>
 <body>
     <div class="pricing-container">
@@ -17,9 +17,7 @@
                 <li>Basic Support</li>
                 <li>1 Website</li>
             </ul>
-          <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="sprout" data-cb-plan-quantity="1" >
-            <button class="cta-button">Sign Up</button>
-          </a>
+         <a href="javascript:void(0)" data-cb-type="checkout" data-cb-item-0="Go-Plan-USD-Monthly" >subscribe</a>
         </div>
 
         <div class="pricing-card featured">
